@@ -1,0 +1,4 @@
+2025-01-08 04:07:45-DEBUG:ArithmeticApp:Adding 10+20=30
+2025-01-08 04:07:45-DEBUG:ArithmeticApp:Substracting 77-32=45
+2025-01-08 04:07:45-DEBUG:ArithmeticApp:Multiplying 3*89=267
+2025-01-08 04:07:45-DEBUG:ArithmeticApp:Dividing 20/10=2.0
